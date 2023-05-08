@@ -1,5 +1,5 @@
 # clasificador_emojis
-reconoce y clasifica emojis
+Reconoce y clasifica emojis
 
 *********************************************************************************
 
