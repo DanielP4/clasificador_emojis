@@ -9,7 +9,7 @@ Optamos por este modelo debido a su capacidad para clasificar objetos en un gran
 
 Dado que el equipo con el que contamos es bastante limitado consideramos que lo mejor sería decantantarnos por un modelo que fuera lo mas eficiente posible y este es justamente eso.
 
-Aunado a esto, el dataset que utilizaremos se compone de iamgenes de tamaño uniforme, lo que es ideal para el funcionamiento de este modelo.
+Aunado a esto, el dataset que utilizaremos se compone de imagenes de tamaño uniforme, lo que es ideal para el funcionamiento de este modelo.
 
 
 *********************************************************************************
