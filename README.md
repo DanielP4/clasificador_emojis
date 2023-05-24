@@ -13,7 +13,3 @@ Aunado a esto, el dataset que utilizaremos se compone de imagenes de tamaño uni
 
 
 *********************************************************************************
-
-
-
-Proximamente 😀
